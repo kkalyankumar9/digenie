@@ -4,6 +4,8 @@ import NavbarCom from "./Components/NavbarCom/navbar";
 import SectionCom1 from "./Components/Section1/section1";
 import SectionCom2 from "./Components/Section2/section2";
 import SectionCom3 from "./Components/Section3/section3";
+import SectionCom4 from "./Components/Section5/section5";
+import SectionCom6 from "./Components/Section6/section6";
 
 function App() {
   return (
@@ -29,6 +31,8 @@ function App() {
       <SectionCom1 />
       <SectionCom2 />
       <SectionCom3/>
+      <SectionCom4/>
+      <SectionCom6/>
       <Footer/>
      
     </div>

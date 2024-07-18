@@ -1,0 +1,67 @@
+.sec5pt1 {
+    padding: 35px;
+    width: 614px;
+    height: 100px;
+    top: 2066px;
+    left: 653px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .sec5pt1 > p:nth-child(1) {
+    margin-top: 25px;
+    font-family: Volkhov, serif; 
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59.34px;
+    color: #323654;
+    margin: 0; 
+  }
+  
+  .sec5pt1 > p:nth-child(2) {
+    font-family: Rubik, sans-serif; 
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 21.04px;
+    color: #707070;
+    margin: 0; 
+  }
+  .sec5image{
+    display: flex;
+    width: 1920px;
+    width: 1920px;
+height: 380px;
+top: 4606px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  .sec5pt1>div{
+    width: 1920px;
+height: 380px;
+top: 4606px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  .even-img{
+    width: 320px;
+height: 308px;
+top: 4642px;
+gap: 0px;
+border-radius: 20px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  .odd-img{
+    width: 256px;
+    height: 380px;
+    top: 4606px;
+    left: 320px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+    
+  }
