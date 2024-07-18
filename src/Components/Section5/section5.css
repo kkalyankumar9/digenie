@@ -4,8 +4,11 @@
     height: 100px;
     top: 2066px;
     left: 653px;
-    text-align: center;
-    margin: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+align-items: center;
+margin: auto;
  
   }
   

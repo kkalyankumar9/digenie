@@ -114,7 +114,11 @@ opacity: 0px;
     color: #FAFAFA;
     border-radius: 10px;
     margin: auto;
-    text-align: center;
+    display: flex;
+   
+    justify-content: center;
+ align-items: center;
+ margin: auto;
   
     opacity: 1; /* Ensure the button is visible */
   }
