@@ -1,6 +1,6 @@
 import React from 'react'
 import "./section5.css"
-const SectionCom4 = () => {
+const SectionCom5 = () => {
     const data=[
         "https://s3-alpha-sig.figma.com/img/6122/aa6b/9b8f49ee93d012c8987ee2207f5904f1?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=WNqhOSOMqCBpe98YfB8ixw0U6~h8Urqj-qAnE4l-GoSL3cRQ-M7shgUxR7sNk0B8aawnIx1w~StMGAGjRnOlWwBMG64Zde~p8LHfMicS4eA~Dl8pP5Umdhu8y6DkzT7be9oKE1TyT6eVYW1KB~1LxsQU2jlODRZjhtHW2J5U66dIarI8IUQTHbFuWycWKMJcllr5ecZ4Rq2sQ3Acu-c6oJM93nWt1-T54W~Xy0SG1VvKQ0dJzuqk9~YHc-p8HOagYjYDkLbhgurAsW99ukKYXX9FCOygHDzZHspQf~-avOOep-qoK38J7285FuvdbG6XIpbv7WDrXxN4NCR32UNhxQ__",
         "https://s3-alpha-sig.figma.com/img/3792/fbde/eebbf9b0e80bc61621b32f8e693de9c0?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=KVSS-vCunp6~m2aou-Zr3H0kGgQo73Cl-i1aNlVLcddwtRiR5JJealR67~LAh4Kh-wAhLTu8CFTlKavYti5bzh~Ax7KTtpX~WPMwqValWMN8NfL3V5QO9TpzL1pRXG0cSJrWbTDQLYgzbSvQi-k3DQLoXv0OazXYmzSRyvfjqBr1607XwUN4j4zs483Q9vSnK0Ll6gg3Taj6w6envdSumfTrAkVAItUP21yfo1pGc1Y5okfN-f779nKJRZQEJny~ekjrre4JfWd9n-HDSS088ZuN7zQbKb2oCk5~THIrJlF5wcclu7V96nvNhlIGZJvl21w~167Rsq2UPauHDkoOdw__",
@@ -32,4 +32,4 @@ const SectionCom4 = () => {
   )
 }
 
-export default SectionCom4
+export default SectionCom5

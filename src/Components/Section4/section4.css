@@ -1,0 +1,141 @@
+#sec4main{
+margin: 5%
+}
+#sec4ptcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+.sec4left{
+    width: 1055px;
+    height: 575px;
+    top: 3475px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #C4C4C4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec4right{
+    width: 1118px;
+    height: 575px;
+    top: 3475px;
+    left: 803px;
+    gap: 0px;
+    opacity: 0px;
+    border-right: 1px;
+    background-color: #DADADA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec4left:hover{
+    background-color: #DADADA;
+
+}
+.sec4right:hover{
+    background-color: #C4C4C4;
+
+}
+#sec4rightdiv{
+    width: Hug (661px)px;
+    height: Fixed (405px)px;
+    top: 3584px;
+    left: 1076px;
+    gap: 0px;
+    justify: space-between;
+    opacity: 0px;
+    
+}
+#sec4rightdiv>p:nth-child(1){
+    width: 319px;
+height: 42px;
+gap: 0px;
+opacity: 0px;
+font-family: Volkhov;
+font-size: 40px;
+font-weight: 400;
+line-height: 42.08px;
+text-align: left;
+color: #000000;
+
+}
+#sec4rightdiv>p:nth-child(2){
+    width: 661px;
+    height: 175px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24.84px;
+    text-align: left;
+    color: #484848;
+        
+}
+#sec4rightdiv>button{
+    width: 206px;
+height: 56px;
+gap: 0px;
+border-radius: 10px;
+opacity: 0px;
+background-color: #323654;
+
+
+
+}
+.sec4left>.icon4{
+    width: 154px;
+    height: 154px;
+    top: 3683px;
+    left: 369px;
+    gap: 0px;
+    opacity: 0px;
+   
+    
+    
+}
+
+.sec4pat2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 1281px;
+height: 50px;
+top: 4117px;
+left: 320px;
+gap: 0px;
+opacity: 0px;
+
+}
+.sec4pat2>div{
+    width: 188px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+
+    display: flex;
+    align-items: center;
+  
+    justify-content: space-evenly;
+}
+.sec4pt{
+    width: 124px;
+height: 30px;
+gap: 0px;
+opacity: 0px;
+color: #484848;
+
+}
+.sec4icon{
+    width: 51px;
+height: 50px;
+gap: 0px;
+opacity: 0px;
+color: #323654;
+
+}

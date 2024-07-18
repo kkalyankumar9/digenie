@@ -4,7 +4,8 @@ import NavbarCom from "./Components/NavbarCom/navbar";
 import SectionCom1 from "./Components/Section1/section1";
 import SectionCom2 from "./Components/Section2/section2";
 import SectionCom3 from "./Components/Section3/section3";
-import SectionCom4 from "./Components/Section5/section5";
+import SectionCom4 from "./Components/Section4/section4";
+import SectionCom5 from "./Components/Section5/section5";
 import SectionCom6 from "./Components/Section6/section6";
 
 function App() {
@@ -32,6 +33,7 @@ function App() {
       <SectionCom2 />
       <SectionCom3/>
       <SectionCom4/>
+      <SectionCom5/>
       <SectionCom6/>
       <Footer/>
      
