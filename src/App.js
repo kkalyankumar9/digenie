@@ -7,6 +7,7 @@ import SectionCom3 from "./Components/Section3/section3";
 import SectionCom4 from "./Components/Section4/section4";
 import SectionCom5 from "./Components/Section5/section5";
 import SectionCom6 from "./Components/Section6/section6";
+import SectionCom7 from "./Components/Section7/section7";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
       <SectionCom4/>
       <SectionCom5/>
       <SectionCom6/>
+      <SectionCom7/>
       <Footer/>
      
     </div>

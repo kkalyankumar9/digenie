@@ -1,0 +1,138 @@
+#sec7main{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-bottom:10% ;
+}
+.sec7con{
+    width: 716px;
+    height: 105px;
+    top: 6442px;
+    left: 602px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 10%;
+    
+}
+.sec7con>p:nth-child(1){
+    width: 716px;
+height: 59px;
+top: 6442px;
+left: 602px;
+gap: 0px;
+opacity: 0px;
+font-family: Volkhov;
+font-size: 46px;
+font-weight: 400;
+line-height: 59.34px;
+text-align: center;
+color: #484848;
+
+}
+.sec7con>p:nth-child(2){
+    width: 614px;
+height: 26px;
+top: 6521px;
+left: 653px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+color: #8A8A8A;
+
+}
+#sec7con2{
+    width: 864px;
+height: 400px;
+top: 6617px;
+left: 528px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background-color: #FFFFFF;
+box-shadow: 0px 20px 60px 0px #2E213D14;
+
+
+}
+.sec7sub2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 5%;
+}
+.sec7sub2>div>img{
+    width: 242px;
+    height: 242px;
+    top: 6686px;
+    left: 598px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.sec7sub2>div:nth-child(1){
+    width: 242px;
+    height: 242px;
+    top: 6686px;
+    left: 598px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.sec7sub2>div:nth-child(2){
+    width: 419px;
+    height: 242px;
+    top: 6686px;
+    left: 923px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.sec7pt1{
+    width: 419px;
+height: 72px;
+top: 6686px;
+left: 923px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #484848;
+
+}
+.sec7nam{
+    width: 171px;
+    height: 41px;
+    top: 6850px;
+    left: 923px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Volkhov;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 41.28px;
+    text-align: left;
+    color: #484848;
+        
+}
+.sec7nam2{
+    width: 131px;
+    height: 24px;
+    top: 6904px;
+    left: 923px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #484848;
+        
+}
