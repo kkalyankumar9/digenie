@@ -1,0 +1,121 @@
+.sec3pt1 {
+    padding: 25px;
+    width: 614px;
+    height: 100px;
+    top: 2066px;
+    left: 653px;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .sec3pt1 > p:nth-child(1) {
+    font-family: Volkhov, serif; /* Specify font-family */
+    font-size: 46px;
+    font-weight: 400;
+    line-height: 59.34px;
+    color: #323654;
+    margin: 0; /* Remove default margin */
+  }
+  
+  .sec3pt1 > p:nth-child(2) {
+    font-family: Rubik, sans-serif; /* Specify font-family */
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 21.04px;
+    color: #707070;
+    margin: 0; /* Remove default margin */
+  }
+  .sec3But{
+    
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; 
+    gap: 4%;
+
+  }
+  .sec3But>button{
+    width: 207px;
+height: 56px;
+top: 2247px;
+left: 377px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background-color:  #FAFAFA;
+color: #8A8A8A;
+border-radius: 10px;
+
+
+  }
+  .sec3But>button:hover{
+    background-color: #323654;
+
+  }
+ 
+  .sec3data{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2px;
+    margin: 2%;
+  }
+  .sec3co1{
+    margin: auto;
+    box-shadow: 0px 40px 90px 0px #0000000F;
+    padding: 10%;
+    
+
+  }
+  .sec3co1>img{
+    width: 336px;
+height: 244px;
+top: 15px;
+left: 25px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+
+  }
+  .sec3co1>p{
+    width: 226px;
+height: 45px;
+top: 279px;
+left: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 30px;
+font-weight: 500;
+line-height: 45px;
+text-align: left;
+color: #484848;
+
+
+  }
+  .ratting{
+    display: flex;
+    color: #FCA120;
+    width: 95px;
+height: 19px;
+top: 344px;
+left: 25px;
+gap: 0px;
+opacity: 0px;
+
+
+  }
+  #sec3view {
+    width: 207px;
+    height: 56px;
+    top: 3339px;
+    left: 851px;
+    background-color: #323654;
+    
+    color: #FAFAFA;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+  
+    opacity: 1; /* Ensure the button is visible */
+  }
+  

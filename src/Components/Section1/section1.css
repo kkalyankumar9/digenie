@@ -1,0 +1,104 @@
+.sec1Main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:  3%;
+}
+.secSub1>img{
+    width: 529px;
+height: 756px;
+top: 220px;
+left: 183px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
+.secSub2{
+    width: 529px;
+height: 756px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+
+
+
+}
+.secSub2>.seimg1{
+    width: 426px;
+    height: 150px;
+    top: 220px;
+    left: 747px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.secSub2>#sec1p{
+ 
+
+    font-family: Poppins;
+font-size: 66px;
+font-weight: 700;
+line-height: 66px;
+letter-spacing: -0.04em;
+text-align: center;
+margin: 0%;
+
+}
+.secSub2 > #sec1p2 {
+   
+    font-family: Poppins;
+    width: 428px;
+
+    gap: 0px;
+    border-style: solid;
+    border-color: transparent; /* Adjust if needed */
+    opacity: 1; /* Changed to 1 to make it visible */
+    font-size: 140px;
+    font-weight: 700;
+    line-height: 140px;
+    letter-spacing: -0.025em;
+    text-align: center;
+    color: transparent; /* Text color is transparent */
+    -webkit-text-stroke: 2px #CA2E55; /* Stroke color and width */
+    
+    -webkit-text-fill-color: transparent; /* Ensures the fill color is transparent */
+margin: 0%;  
+}
+  .seimg2{
+    width: 426px;
+    height: 150px;
+    top: 220px;
+    left: 747px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+
+  }
+  .secSub2>button{
+    width: 207px;
+    height: 56px;
+    top: 752px;
+    left: 853px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 0%;
+    
+background-color:  #000000;
+color:  #FFFFFF;
+
+;
+
+  }
+  
+.secSub3>img{
+    width: 528px;
+height: 756px;
+top: 220px;
+left: 1209px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
