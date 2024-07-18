@@ -33,8 +33,7 @@ const SectionCom7 = () => {
                 </div>
             
             </div>
-            <div></div>
-            <div></div>
+            
         </div>
     </div>
 
