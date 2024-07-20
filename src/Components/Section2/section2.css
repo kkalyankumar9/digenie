@@ -1,56 +1,61 @@
 .sec2main {
-  width: 1920px;
-  height: 782px;
-  top: 1147.5px;
-  gap: 0px;
-  opacity: 0px;
+  width: 100%;
+  height: 300px;
+
+  margin-bottom: 10%;
 }
 .seccon2 {
-  width: 493px;
+
   height: 294px;
-  top: 1296px;
-  left: 320px;
-  gap: 0px;
-  opacity: 0px;
+ 
+
   display: flex;
-  margin-left: 17%;
+ 
+
+
+  
+  gap: 10px;
+ 
 }
+.sec2sub1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; 
+  align-items: flex-end;
+
+
+ 
+      
+}
+
 .sec2sub1 > p:nth-child(1) {
   font-family: Volkhov;
-  font-size: 53px;
-  font-weight: 400;
-  line-height: 68.37px;
-  text-align: left;
+  font-size: 36px;
+  font-weight: 300;
+ 
+
   width: 493px;
   height: 136px;
-  top: 1296px;
-  left: 320px;
-  gap: 0px;
-  opacity: 0px;
+
   color: #323564;
+  text-align: right;
 }
 .sec2sub1 > p:nth-child(2) {
   width: 436px;
   height: 78px;
-  top: 1512px;
-  left: 320px;
-  gap: 0px;
-  opacity: 0px;
-  color: #8a8a8a;
 
+  color: #8a8a8a;
+  text-align: right;
   font-family: Poppins;
-  font-size: 20px;
-  font-weight: 400;
-  line-height: 26px;
-  text-align: left;
+  font-size: 12px;
+  font-weight: 200;
+  line-height: 15px;
+ 
 }
 .sec2sub1 > button {
-  width: 207px;
-  height: 56px;
-  top: 1634px;
-  left: 320px;
-  gap: 0px;
-  opacity: 0px;
+  width: 150px;
+  height: 35px;
+
   background-color: #000000;
   color: #ffffff;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 30px 20px -2px;
@@ -58,33 +63,27 @@
 
 #sec2con2 {
   display: flex;
-  justify-content: space-between;
-  align-items: right;
-  gap: 20px;
+  justify-content: space-evenly;
+  gap: 5px;
+  
+  
+ 
   margin-right: 0%;
 }
 #sec2con2 > img:nth-child(1) {
-  width: 404px;
-  height: 582px;
-  top: 1220px;
-  left: 1290px;
-  gap: 0px;
-  opacity: 0px;
+  width: 270px;
+  height: 370px;
+
 }
 #sec2con2 > img:nth-child(2) {
-  width: 372px;
-  height: 486px;
-  top: 1220px;
-  left: 1314px;
-  gap: 0px;
-  opacity: 0px;
+  width: 270px;
+  height: 370px;
+
 }
 #sec2con2 > img:nth-child(3) {
-  width: 372px;
-  height: 486px;
-  top: 1220px;
-  left: 1710px;
-  gap: 0px;
+  width: 270px;
+  height: 370px;
+ 
 
   clip-path: inset(0 50% 0 0);
 }
@@ -94,19 +93,14 @@
   margin-top: 130%;
   width: 112px;
   height: 48px;
-  top: 1827px;
-  left: 750px;
-  gap: 0px;
-  opacity: 0px;
+  
 }
 .se2icons {
   width: 48px;
   height: 48px;
-  top: 1875px;
-  left: 798px;
+
   border-radius: 50%;
-  gap: 0px;
-  opacity: 0px;
+
   background-color: #ffffff;
 
   box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px,
@@ -115,3 +109,8 @@
 .se2icons:hover {
   color: #ca2e55;
 }
+#arrows{
+margin-top: 5%;
+margin-left: 30%;
+}
+

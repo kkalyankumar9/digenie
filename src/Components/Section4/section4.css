@@ -1,18 +1,19 @@
 #sec4main{
-margin: 5%
+
+width:100%;
+margin-top:5%;
 }
 #sec4ptcon{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     margin-bottom: 3%;
 }
 .sec4left{
-    width: 1055px;
-    height: 575px;
-    top: 3475px;
-    gap: 0px;
-    opacity: 0px;
+    width: 50%;
+    height: 400px;
+  
     background-color: #C4C4C4;
     display: flex;
     justify-content: center;
@@ -20,11 +21,9 @@ margin: 5%
 }
 
 .sec4right{
-    width: 1118px;
-    height: 575px;
-    top: 3475px;
-    left: 803px;
-    gap: 0px;
+    width: 50%;
+    height: 400px;
+
     opacity: 0px;
     border-right: 1px;
     background-color: #DADADA;
@@ -40,23 +39,14 @@ margin: 5%
     background-color: #C4C4C4;
 
 }
-#sec4rightdiv{
-    width: Hug (661px)px;
-    height: Fixed (405px)px;
-    top: 3584px;
-    left: 1076px;
-    gap: 0px;
-    justify: space-between;
-    opacity: 0px;
-    
-}
+
 #sec4rightdiv>p:nth-child(1){
-    width: 319px;
+    width: 60%;
 height: 42px;
 gap: 0px;
 opacity: 0px;
 font-family: Volkhov;
-font-size: 40px;
+font-size: 30px;
 font-weight: 400;
 line-height: 42.08px;
 text-align: left;
@@ -64,21 +54,21 @@ color: #000000;
 
 }
 #sec4rightdiv>p:nth-child(2){
-    width: 661px;
-    height: 175px;
+    width: 70%;
+ 
     gap: 0px;
     opacity: 0px;
     font-family: Poppins;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
-    line-height: 24.84px;
+    
     text-align: left;
     color: #484848;
         
 }
 #sec4rightdiv>button{
-    width: 206px;
-height: 56px;
+    width: 160px;
+height: 36px;
 gap: 0px;
 border-radius: 10px;
 opacity: 0px;
@@ -88,8 +78,8 @@ background-color: #323654;
 
 }
 .sec4left>.icon4{
-    width: 154px;
-    height: 154px;
+    width: 120px;
+    height: 100px;
     top: 3683px;
     left: 369px;
     gap: 0px;
@@ -101,20 +91,22 @@ background-color: #323654;
 
 .sec4pat2{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
     margin: auto;
-    width: 1281px;
-height: 50px;
-top: 4117px;
-left: 320px;
-gap: 0px;
-opacity: 0px;
+    width: 100%;
+height: 40px;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+
+
+padding: 2%;
+
 
 }
 .sec4pat2>div{
-    width: 188px;
-height: 50px;
+    width: 150px;
+height: 40px;
 gap: 0px;
 opacity: 0px;
 

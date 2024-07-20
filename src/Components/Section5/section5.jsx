@@ -12,7 +12,7 @@ const SectionCom5 = () => {
     ]
   return (
     <>
-    <div>
+    <div className='sec5main'>
     <div class="sec5pt1">
   <p>Are you an aspiring artist</p>
   <p>learn Tanjore Painting , Relief Art , Kerala Mural , fridge Magnet , single store painting , Knife Painting and various <br /> other techniques. Enroll in a class today </p>

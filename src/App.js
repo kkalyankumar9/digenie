@@ -11,25 +11,10 @@ import SectionCom7 from "./Components/Section7/section7";
 
 function App() {
   return (
-    <div style={{ width: "1920px",margin:"1%" }}>
-      <div
-        style={{
-          width: "1920px",
-          height: "161px",
-          position: "sticky",
-
-          top: "0",
-          " z-index": "10",
-          left: "-2px",
-          background: " #FFFFFF",
-          display: "flex",
-          justifyContent: "center",
-          textAlign: "center",
-          boxShadow: " 0px 4px 4px 0px #00000040",
-        }}
-      >
+    <div >
+      
         <NavbarCom />
-      </div>
+   
       <SectionCom1 />
       <SectionCom2 />
       <SectionCom3/>
