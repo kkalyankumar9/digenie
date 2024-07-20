@@ -13,4 +13,5 @@ https://digenie-six.vercel.app/
 ![image](https://github.com/user-attachments/assets/3cac372a-db20-4b19-b504-296efa3d8ff3)
 
 ![image](https://github.com/user-attachments/assets/60025839-fbe7-434a-9531-f4a32d47364b)
-
+# Full screen shot
+![screencapture-localhost-3000-2024-07-20-10_27_00](https://github.com/user-attachments/assets/0937bb48-06d5-484f-9b8b-fcf35993fb3c)
