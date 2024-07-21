@@ -1,6 +1,6 @@
 import React from 'react'
 import "./section7.css"
-
+import img20 from "../Images/img20.jpeg"
 import { PiStarThin } from "react-icons/pi";
 
 const SectionCom7 = () => {
@@ -14,7 +14,7 @@ const SectionCom7 = () => {
         <div id='sec7con2'>
             <div className='sec7sub2'>
                 <div >
-                <img src="https://s3-alpha-sig.figma.com/img/885f/44ac/71ec9858d917c1ae21e54ee4995c1878?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ePGJSb1VVT0eD2MTEfEiKKGfzUOtalfz6YSo6TlD5bW96qia5pc8WVhXGhgVUAW8DfePVHPSHHiKHrvBy6yzEkVGJzJXlGz2pzx3QTWL~hIvXzldl0MkNALOKWWhJ19N3V3lfObyPb2Fle0NXF0jfyAHGaVaJ-r4m8XCjJHtlEiRCrcOlSsda5NzEamffsbNE-jetopiVNOEMWaddlJohZ~RCcudBAhUWIjYhtog33zffVZTJ2H2PGd1Z~ZiVXUn00D0SGpDwB-8fka94DKjXzky6Fvs9GJjPWNbGnhoZwW3ME7MdGqUi~FtIICg9v9Wn5fG1G2A9EjRyMQZtEQROg__" alt="" />
+                <img src={img20} alt="" />
 
                 </div>
                 <div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./section6.css";
-
+import img19 from "../Images/img19.jpeg"
 const SectionCom6 = () => {
   return (
     <>
@@ -21,7 +21,7 @@ const SectionCom6 = () => {
           </div>
         </div>
         <div id='sect6pt2'>
-          <img src="https://s3-alpha-sig.figma.com/img/6ca3/c990/e4448a659784be429982fc001b963d67?Expires=1722211200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jjxqgqvzJTGu12mvCPzz4pQPlWANrZTHv9ONJ44IlLAnN0T6tFbrRJi98KTRvG332EUiulBw9tMx4yTd2NZIj~DnowhOcGw5Nfrs6KPcrED1qgF-r-kyCFfRwjzq4m6pODYsXr7fUQw3RHO5D3OK~YGdP8yk2ZlFZltk2VGWc9zDy29rUgFx4Gmr3rk-cPS1aboTNzGghy8HoVHyed6jbIVPeXo-2TTdWE76h47rJ5z~4Y7Cu9KIhqDLB5qGsSg~H~5hUIHULtBEPkkGQyW5BDAaZ7QtYBWmxMK7gIjpyRUHSF6goQqBvLXF7niRmyj42p54j3Ponru5pEeKx5-gQw__" alt="" />
+          <img src={img19} alt="" />
         </div>
       </div>
     </>
