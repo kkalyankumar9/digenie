@@ -1,133 +1,117 @@
-#sec4main{
-
-width:100%;
-margin-top:5%;
-}
-#sec4ptcon{
+#sec4main {
+    width: 100%;
+    margin-top: 5%;
+  }
+  
+  #sec4ptcon {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     margin-bottom: 3%;
-}
-.sec4left{
-    width: 50%;
-    height: 400px;
+  }
   
-    background-color: #C4C4C4;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.sec4right{
+  .sec4left {
     width: 50%;
     height: 400px;
-
-    opacity: 0px;
-    border-right: 1px;
-    background-color: #DADADA;
+    background-color: hsl(0, 0%, 77%);
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.sec4left:hover{
-    background-color: #DADADA;
-
-}
-.sec4right:hover{
-    background-color: #C4C4C4;
-
-}
-
-#sec4rightdiv>p:nth-child(1){
+  }
+  
+  .sec4right {
+    width: 50%;
+    height: 400px;
+    background-color: hsl(0, 0%, 85%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sec4left:hover {
+    background-color: hsl(0, 0%, 85%);
+  }
+  
+  .sec4right:hover {
+    background-color: hsl(0, 0%, 77%);
+  }
+  
+  #sec4rightdiv > p:nth-child(1) {
     width: 60%;
-height: 42px;
-gap: 0px;
-opacity: 0px;
-font-family: Volkhov;
-font-size: 30px;
-font-weight: 400;
-line-height: 42.08px;
-text-align: left;
-color: #000000;
-
-}
-#sec4rightdiv>p:nth-child(2){
+    padding: 2%;
+    height: 42px;
+    gap: 0;
+    font-family: Volkhov;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 42.08px;
+    text-align: left;
+    color: #000000;
+  }
+  
+  #sec4rightdiv > p:nth-child(2) {
     width: 70%;
- 
-    gap: 0px;
-    opacity: 0px;
+    padding: 2%;
+    gap: 0;
     font-family: Poppins;
     font-size: 15px;
     font-weight: 400;
-    
     text-align: left;
     color: #484848;
-        
-}
-#sec4rightdiv>button{
+  }
+  
+  #sec4rightdiv > button {
     width: 160px;
-height: 36px;
-gap: 0px;
-border-radius: 10px;
-opacity: 0px;
-background-color: #323654;
-
-
-
-}
-.sec4left>.icon4{
+    height: 36px;
+    gap: 0;
+    border-radius: 10px;
+    background-color: #323654;
+    color: #ffffff; /* Added to ensure button text is visible */
+    border: none; /* Added to remove default button border */
+    cursor: pointer; /* Added to change cursor on hover */
+  }
+  
+  .sec4left > .icon4 {
     width: 120px;
     height: 100px;
     top: 3683px;
     left: 369px;
-    gap: 0px;
-    opacity: 0px;
-   
-    
-    
-}
-
-.sec4pat2{
+    gap: 0;
+  }
+  
+  .sec4pat2 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
     margin: auto;
     width: 100%;
-height: 40px;
-box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
-
-
-padding: 2%;
-
-
-}
-.sec4pat2>div{
+    height: 40px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    padding: 2%;
+  }
+  
+  .sec4pat2 > div {
     width: 150px;
-height: 40px;
-gap: 0px;
-opacity: 0px;
-
+    height: 40px;
+    gap: 0;
     display: flex;
     align-items: center;
-  
     justify-content: space-evenly;
-}
-.sec4pt{
+  }
+  
+  .sec4pt {
     width: 124px;
-height: 30px;
-gap: 0px;
-opacity: 0px;
-color: #484848;
-
-}
-.sec4icon{
+    height: 30px;
+    gap: 0;
+    color: #484848;
+  }
+  
+  .sec4icon {
     width: 51px;
-height: 50px;
-gap: 0px;
-opacity: 0px;
-color: #323654;
-
-}
+    height: 50px;
+    gap: 0;
+    color: #323654;
+  }
+  
